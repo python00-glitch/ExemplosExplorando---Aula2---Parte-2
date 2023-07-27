@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "EO0XbdPnmKOAE1BG0s4YK0IYU0nlbQqw2z8ZOCrMdkSM9FxaPwcP8ZTnc9jI5/ZYi+oA0mtF7T0cDygXNYN6sQ==",
+  "dgSpecHash": "Kth0d8OkZjtWc8tjjCXNE8pGt+oR7ESWVsD12ElmBLvJkYF0I9Fo2zAlyJMqR8cTC0BuGhEPzfSeQpAj6+mX8Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\rosel\\OneDrive\\Documentos\\Estudos DIO\\Estudos C# - DIO\\ExemplosExplorando - Aula2 - Parte 2\\ExemplosExplorando - Aula2 - Parte 2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\rosel\\OneDrive\\Documentos\\Estudos DIO\\Estudos C# - DIO\\ExemplosExplorando - Aula2 - Parte 2\\ExemplosExplorando - Aula2 - Parte 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rosel\\.nuget\\packages\\google.api.gax\\4.4.0\\google.api.gax.4.4.0.nupkg.sha512",
+    "C:\\Users\\rosel\\.nuget\\packages\\google.api.gax.rest\\4.4.0\\google.api.gax.rest.4.4.0.nupkg.sha512",
+    "C:\\Users\\rosel\\.nuget\\packages\\google.apis\\1.61.0\\google.apis.1.61.0.nupkg.sha512",
+    "C:\\Users\\rosel\\.nuget\\packages\\google.apis.auth\\1.61.0\\google.apis.auth.1.61.0.nupkg.sha512",
+    "C:\\Users\\rosel\\.nuget\\packages\\google.apis.calendar.v3\\1.61.0.3116\\google.apis.calendar.v3.1.61.0.3116.nupkg.sha512",
+    "C:\\Users\\rosel\\.nuget\\packages\\google.apis.core\\1.61.0\\google.apis.core.1.61.0.nupkg.sha512",
+    "C:\\Users\\rosel\\.nuget\\packages\\google.apis.storage.v1\\1.60.0.2981\\google.apis.storage.v1.1.60.0.2981.nupkg.sha512",
+    "C:\\Users\\rosel\\.nuget\\packages\\google.cloud.storage.v1\\4.6.0\\google.cloud.storage.v1.4.6.0.nupkg.sha512",
+    "C:\\Users\\rosel\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\rosel\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0-preview.6.23329.7\\microsoft.extensions.dependencyinjection.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\rosel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-preview.6.23329.7\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\rosel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\rosel\\.nuget\\packages\\serilog\\3.0.2-dev-02044\\serilog.3.0.2-dev-02044.nupkg.sha512"
+  ],
   "logs": []
 }
