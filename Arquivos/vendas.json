@@ -2,11 +2,13 @@
   {
     "Id": 123,
     "Produto": "Lápis",
-    "Preco": 12.5
+    "Preco": 12.5,
+    "Desconto": null
   },
   {
     "Id": 321,
     "Produto": "Caderno",
-    "Preco": 35.0
+    "Preco": 35.0,
+    "Desconto": 10
   }
 ]

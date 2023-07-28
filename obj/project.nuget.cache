@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kth0d8OkZjtWc8tjjCXNE8pGt+oR7ESWVsD12ElmBLvJkYF0I9Fo2zAlyJMqR8cTC0BuGhEPzfSeQpAj6+mX8Q==",
+  "dgSpecHash": "fUfdNiRG0f3rIx2P95PlE6VeV6Rbg1ra0xuShFj8sPGWpKNSRAG9j1HTPIFyVKXZ17/+LTLWspHHkNh629w8cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rosel\\OneDrive\\Documentos\\Estudos DIO\\Estudos C# - DIO\\ExemplosExplorando - Aula2 - Parte 2\\ExemplosExplorando - Aula2 - Parte 2.csproj",
+  "projectFilePath": "C:\\Users\\rosel\\OneDrive\\Documentos\\Estudos DIO\\Estudos C# - DIO\\ExemplosExplorando - Aula 2 - Parte 2\\ExemplosExplorando - Aula2 - Parte 2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rosel\\.nuget\\packages\\google.api.gax\\4.4.0\\google.api.gax.4.4.0.nupkg.sha512",
     "C:\\Users\\rosel\\.nuget\\packages\\google.api.gax.rest\\4.4.0\\google.api.gax.rest.4.4.0.nupkg.sha512",

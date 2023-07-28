@@ -549,11 +549,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rosel\\OneDrive\\Documentos\\Estudos DIO\\Estudos C# - DIO\\ExemplosExplorando - Aula2 - Parte 2\\ExemplosExplorando - Aula2 - Parte 2.csproj",
+      "projectUniqueName": "c:\\Users\\rosel\\OneDrive\\Documentos\\Estudos DIO\\Estudos C# - DIO\\ExemplosExplorando - Aula 2 - Parte 2\\ExemplosExplorando - Aula2 - Parte 2.csproj",
       "projectName": "ExemplosExplorando - Aula2 - Parte 2",
-      "projectPath": "C:\\Users\\rosel\\OneDrive\\Documentos\\Estudos DIO\\Estudos C# - DIO\\ExemplosExplorando - Aula2 - Parte 2\\ExemplosExplorando - Aula2 - Parte 2.csproj",
+      "projectPath": "c:\\Users\\rosel\\OneDrive\\Documentos\\Estudos DIO\\Estudos C# - DIO\\ExemplosExplorando - Aula 2 - Parte 2\\ExemplosExplorando - Aula2 - Parte 2.csproj",
       "packagesPath": "C:\\Users\\rosel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rosel\\OneDrive\\Documentos\\Estudos DIO\\Estudos C# - DIO\\ExemplosExplorando - Aula2 - Parte 2\\obj\\",
+      "outputPath": "c:\\Users\\rosel\\OneDrive\\Documentos\\Estudos DIO\\Estudos C# - DIO\\ExemplosExplorando - Aula 2 - Parte 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
